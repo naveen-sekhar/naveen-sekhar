@@ -48,7 +48,7 @@ My aim is to raise awareness about the rapidly evolving digital landscape and to
 I'm open to **collaborations, internships, research**, or any **innovative ideas** in cybersecurity, AI, or open-source development.
 
 📧 Email: `naveensekhar06@gmail.com`  
-📇 LinkedIn: [linkedin.com/in/naveensekhar](https://www.linkedin.com/in/naveensekhar)
+📇 LinkedIn: [naveensekhar](https://www.linkedin.com/in/naveensekhar6)
 
 Let’s build something impactful — securely, smartly, and sustainably.
 
