@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Naveen Sekhar
 
-🎓 Student | 🛡️ Cybersecurity Enthusiast | 🔍 Purple Teamer | 🤖 Emerging Tech Explorer | 💡 Real-World Solutions Builder
+🎓 Student | 🛡️ Cybersecurity Enthusiast | 🤖 Emerging Tech Explorer
 
 ---
 
