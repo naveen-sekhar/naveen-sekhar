@@ -1,71 +1,55 @@
 # 👋 Hello, I'm Naveen Sekhar
 
-🎓 Student | 🔐 Cybersecurity Enthusiast | 📦 SBOM & Vulnerability Analyst | 🤖 AI/ML Explorer | 🍓 Raspberry Pi Tinkerer
+🎓 Student | 🛡️ Cybersecurity Enthusiast | 🔍 Purple Teamer | 🤖 Emerging Tech Explorer | 💡 Real-World Solutions Builder
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I’m passionate about building practical solutions that blend cybersecurity, AI, and automation. Currently working on:
+I’m a passionate and curious **tech enthusiast** who thrives on building **real-world, hands-on solutions**. I believe in **learning by doing**.
 
-- 🔍 **SBOM Generation & Vulnerability Analysis**  
-  Automating security insights for enterprise and open-source software using **Syft**, **Grype**, **Trivy**, and custom Bash scripts with SPDX/CycloneDX compliance.
+With a strong interest in **Cybersecurity** — particularly in both **Offensive (Red Team)** and **Defensive (Blue Team)** strategies. My journey spans across **penetration testing**, and **IoT-Technologies**, **Vulnerability Analysis**....
 
-- 🚗 **Smart Parking Management System**  
-  Leveraging **YOLOv8**, **Raspberry Pi**, and **Firebase** for real-time license plate recognition and slot tracking, with a dynamic UI.
-
-- 🛡️ **Data Loss Prevention (DLP) Dashboard**  
-  Designed a professional frontend with **TailwindCSS**, inspired by Trellix, for system monitoring and health tracking via Firestore.
-
-- 🌐 **Phishing URL Detector**  
-  Built a machine learning-powered phishing detection system with a Flask API and stylish frontend (HTML/CSS/JS).
+I’ve worked on several projects across multiple domains, and my goal is simple: **Explore everything. Master what matters. Secure what’s built.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Domains I’m Passionate About
 
-| Domain | Tools & Technologies |
-|-------|----------------------|
-| **Languages** | Python, Bash, JavaScript, HTML, CSS |
-| **Cybersecurity** | SBOM (Syft, Trivy, Grype), CVE Analysis, SPDX, CycloneDX |
-| **ML/DL** | YOLOv8, RandomForest, Streamlit |
-| **Web Dev** | Flask, Firebase, TailwindCSS |
-| **Hardware** | Raspberry Pi 4, Real-time camera integrations |
-| **Tools** | GitHub, VSCode, GitHub Pages, OBS, Google Workspace |
+- Cybersecurity (Penetration Testing)  
+- Web Development & Cloud Technologies  
+- Internet of Things (IoT) & Embedded Systems  
+- Automation & DevOps  
+- Open Source Contribution & Community Engagement
 
 ---
 
 ## 📈 GitHub Stats
 
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveensekhar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveensekhar&layout=compact&theme=radical)
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveen-sekhar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-sekhar&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Interests
+## 🌱 Currently Exploring
 
-- Open-source contribution  
-- Secure DevOps & automation  
-- AI-powered IoT systems  
-- Real-world problem solving through coding  
+- Researching vulnerabilities and various types of scams
+- Deepening my expertise in Red Teaming strategies
+- Exploring projects that combine Cybersecurity and Machine Learning
 
----
-
-## 🌐 Currently Exploring
-
-- 📜 Hosting SBOM + Vulnerability Reports on GitHub Pages  
-- 🔐 GitHub Education Pack benefits for domain setup and tools  
-- 🎓 IEEE Conference Submission for Smart Parking Project  
-- 🧠 Streamlit apps for CVE Intelligence using NVD & Vulners APIs
+My aim is to raise awareness about the rapidly evolving digital landscape and to provide valuable knowledge to naive users. To achieve this, I actively engage in extensive research and practical exploration. 
 
 ---
 
-## 📫 Connect With Me
+## 📬 Let's Collaborate
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/naveensekhar/) (if applicable)
-- 📬 Email: naveen[dot]example[at]gmail[dot]com  
-- 🌐 [Personal Website](https://yourdomain.com) (optional if GitHub Pages used)
+> _"Whether you're building the future, securing systems, or solving real-world problems — I'm all ears."_
+
+I'm open to **collaborations, internships, research**, or any **innovative ideas** in cybersecurity, AI, or open-source development.
+
+📧 Email: `naveensekhar06@gmail.com`  
+📇 LinkedIn: [linkedin.com/in/naveensekhar](https://www.linkedin.com/in/naveensekhar)
+
+Let’s build something impactful — securely, smartly, and sustainably.
 
 ---
-
-_“Security, Simplicity, and Smart Automation — that’s what I strive to bring into every project.”_
