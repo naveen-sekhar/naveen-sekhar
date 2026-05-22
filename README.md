@@ -1,6 +1,13 @@
-# 👋 Hello, I'm Naveen Sekhar
+<h1 align="center">Hi 👋, I'm Naveen Sekhar</h1>
+<h3 align="center">Cybersecurity • IoT • AI Security • Full Stack Development</h3>
 
-🎓 **Student** | 🛡️ **Cybersecurity Enthusiast** | 🤖 **Emerging Tech Explorer**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Explorer;IoT;AI+Explorer;Web+Developer" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naveen-sekhar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
