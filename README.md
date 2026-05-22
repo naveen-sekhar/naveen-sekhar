@@ -81,7 +81,4 @@ I am actively seeking **collaborations, internships, research opportunities**, o
 📧 **Email:** [naveensekhar06@gmail.com](mailto:naveensekhar06@gmail.com)  
 📇 **LinkedIn:** [linkedin.com/in/naveensekhar6](https://www.linkedin.com/in/naveensekhar6)
 
----
-<p align="center">
-  <sub>Built with 💻, ☕, and a passion for security.</sub>
-</p>
+
